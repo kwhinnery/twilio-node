@@ -1,6 +1,6 @@
 # twilio-node
 
-A node.js Twilio helper library.
+A node.js Twilio helper library!
 
 [![NPM](https://nodei.co/npm/twilio.png?downloads=true&stars=true)](https://nodei.co/npm/twilio/)
 
